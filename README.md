@@ -4,8 +4,7 @@
 1. Readdress
 2. iNoah
 3. miflix - Fun Netflix clone project
-4. crabscript - Compiler/Interpreter writen in Rust
-5. script++ - Compiler/Interpreter writen in C and C++
+4. Compiler and/or Interpreter writen in Rust or C/C++
 
 <!--
 **musamahmoudjingo/musamahmoudjingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
